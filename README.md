@@ -1,8 +1,12 @@
 # Talent Trail
-Team 1's Group Project for 3308 Spring 2026
-
+A career exploration and skill gap analysis web application built using Flask, SQLite, and O*NET occupational data.
 ## Description
-Talent Trail is a web-based career gap analysis tool that generates personalized reports to help users plan their professional growth. Users select a desired career and complete a survey rating their current skills. Talent Trail compares these ratings against O*NET's real-world skill requirements and produces a report showing skill gaps and actionable feedback. 
+As the Front-End Developer and UI/UX Designer for the project, I focused on:
+- Designing the user interface and page layouts
+- Creating responsive front-end components
+- Styling the application using HTML and CSS
+- Improving user navigation and usability
+- Collaborating with teammates on feature integration and testing
 
 Many people struggle to evaluate their skill sets and develop a clear plan to reach their career goals. Talent Trail simplifies this process by combining official O*NET data with user input, producing an intuitive analysis of career readiness.  
 
@@ -13,16 +17,6 @@ Many people struggle to evaluate their skill sets and develop a clear plan to re
 - **Kassidy Flick** (GitHub: `kflick3r`, Email: kassidy.flick@colorado.edu)
 - **Mark Olmscheid** (GitHub: `Olmscheid`, Email: Mark.Olmscheid@colorado.edu)
 - **Sarah Suliman** (GitHub: `sssuliman`, Email: Sarah.Suliman@colorado.edu)
-
----
-
-## Minimum Viable Product
-
-1. Present available occupations to the user from O*NET data
-2. Accept and process user-provided skill rating
-3. Retrieve the top skills associated with a selected career
-4. Compare user skills to occupational requirements
-5. Display the comparison results in a readable format
 
 ---
 
@@ -43,6 +37,20 @@ Many people struggle to evaluate their skill sets and develop a clear plan to re
 - Button to generate PDF
 7. PDF of report is generated and downloaded
 
+---
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Career Selection
+![Career Selection](screenshots/career-selection.png)
+
+### Skills Survey
+![Skills Survey](screenshots/skills-survey.png)
+
+### Career Compatibility Results
+![Results](screenshots/results-page.png)
 ---
 
 ## Demo Video: 
@@ -70,9 +78,9 @@ You can access the full working version of Talent Trail without running it local
 
 ## Installation / Usage
 1. Clone the repository:  
-   `git clone https://github.com/kflick3r/Talent_Trail`  
+   `git clone https://github.com/sssuliman/Suliman_Talent_Trail.git` 
    `cd Talent_Trail`  
-2. Activate the Included Virtual Environment  
+2. Create and activate a virtual environment
    `source venv/bin/activate`  
 3. Ensure the O*NET database is located at Data/onet.db  
 4. Run the Flask development server:  
