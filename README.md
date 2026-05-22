@@ -13,10 +13,11 @@ Many people struggle to evaluate their skill sets and develop a clear plan to re
 ---
 
 ## Team Members
+- **Sarah Suliman** (GitHub: `sssuliman`, Email: Sarah.Suliman@colorado.edu)
 - **Lisa Wilder** (GitHub: `Wilder407`, Email: Lisa.Wilder@colorado.edu)
 - **Kassidy Flick** (GitHub: `kflick3r`, Email: kassidy.flick@colorado.edu)
 - **Mark Olmscheid** (GitHub: `Olmscheid`, Email: Mark.Olmscheid@colorado.edu)
-- **Sarah Suliman** (GitHub: `sssuliman`, Email: Sarah.Suliman@colorado.edu)
+
 
 ---
 
