@@ -1,0 +1,4 @@
+*.sql linguist-vendored
+*.csv linguist-vendored
+*.db linguist-vendored
+Data/* linguist-vendored
